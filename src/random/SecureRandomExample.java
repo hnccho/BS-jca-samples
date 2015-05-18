@@ -1,4 +1,7 @@
+package random;
 import java.security.SecureRandom;
+
+import util.Bytes;
 
 public class SecureRandomExample {
 	
